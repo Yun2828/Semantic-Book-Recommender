@@ -5,22 +5,22 @@ This project is a content-based book recommendation system built with Large Lang
 
 It uses book descriptions to create semantic embeddings, allowing users to:
 
-Discover similar books based on natural language queries
+- Discover similar books based on natural language queries
 
-Filter recommendations by category (Fiction, Non-Fiction, Children’s)
+- Filter recommendations by category (Fiction, Non-Fiction, Children's Fiction, Children's Non-Fiction)
 
-Sort results by emotional tone (Joy, Sadness, Suspense, etc.)
+- Sort results by emotional tone (Happy, Sad, Suspenseful, etc.)
 
 Explore results through an interactive Gradio dashboard
 
 ## Features
 
-Text Cleaning & Preprocessing: Data prepared from Kaggle’s 7k Books dataset
+- Text Cleaning & Preprocessing: Data prepared from Kaggle’s 7k Books dataset
 
-Vector Database with LangChain + ChromaDB
+- Vector Database with LangChain + ChromaDB
 
-Zero-Shot Classification with Hugging Face models
+- Zero-Shot Classification with Hugging Face models
 
-Sentiment Analysis with fine-tuned Roberta models
+- Sentiment Analysis with fine-tuned Roberta models
 
-Interactive Dashboard with book covers, titles, authors, and truncated descriptions
+- Interactive Dashboard with book covers, titles, authors, and truncated descriptions
