@@ -13,6 +13,9 @@ It uses book descriptions to create semantic embeddings, allowing users to:
 
 Explore results through an interactive Gradio dashboard
 
+<img width="1450" height="818" alt="image" src="https://github.com/user-attachments/assets/33f44e5e-d53e-4bae-a971-b12edada9282" />
+
+
 ## Features
 
 - Text Cleaning & Preprocessing: Data prepared from Kaggle’s 7k Books dataset
